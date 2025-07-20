@@ -3805,8 +3805,8 @@
     },
     "ArkanoAdapter/1.0.0": {
       "type": "project",
-      "path": "../../ArkanoAdapter/ArkanoAdapter.csproj",
-      "msbuildProject": "../../ArkanoAdapter/ArkanoAdapter.csproj"
+      "path": "../ArkanoAdapter/ArkanoAdapter.csproj",
+      "msbuildProject": "../ArkanoAdapter/ArkanoAdapter.csproj"
     },
     "ArkanoBussiness/1.0.0": {
       "type": "project",
@@ -3863,8 +3863,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\aifre\\Documents\\Code\\ArkanoAdapter\\ArkanoAdapter.csproj": {
-              "projectPath": "C:\\Users\\aifre\\Documents\\Code\\ArkanoAdapter\\ArkanoAdapter.csproj"
+            "C:\\Users\\aifre\\Documents\\Code\\ArkanoApi\\ArkanoAdapter\\ArkanoAdapter.csproj": {
+              "projectPath": "C:\\Users\\aifre\\Documents\\Code\\ArkanoApi\\ArkanoAdapter\\ArkanoAdapter.csproj"
             },
             "C:\\Users\\aifre\\Documents\\Code\\ArkanoApi\\ArkanoBussiness\\ArkanoBussiness.csproj": {
               "projectPath": "C:\\Users\\aifre\\Documents\\Code\\ArkanoApi\\ArkanoBussiness\\ArkanoBussiness.csproj"

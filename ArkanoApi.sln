@@ -11,7 +11,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArkanoData", "ArkanoData\Ar
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArkanoBussiness", "ArkanoBussiness\ArkanoBussiness.csproj", "{549BA7F9-964A-4FC0-98BF-24CC520BBD4B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArkanoAdapter", "..\ArkanoAdapter\ArkanoAdapter.csproj", "{CE55963A-4CD1-46C9-A5DB-AFA1B7A4C3F0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArkanoAdapter", "ArkanoAdapter\ArkanoAdapter.csproj", "{CE55963A-4CD1-46C9-A5DB-AFA1B7A4C3F0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

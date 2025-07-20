@@ -21,7 +21,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\ArkanoAdapter\ArkanoAdapter.csproj" />
+    <ProjectReference Include="..\ArkanoAdapter\ArkanoAdapter.csproj" />
     <ProjectReference Include="..\ArkanoBussiness\ArkanoBussiness.csproj" />
   </ItemGroup>
 

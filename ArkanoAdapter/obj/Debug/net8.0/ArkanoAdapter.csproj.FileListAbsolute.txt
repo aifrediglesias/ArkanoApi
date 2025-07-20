@@ -1,0 +1,12 @@
+C:\Users\aifre\Documents\Code\ArkanoAdapter\bin\Debug\net8.0\ArkanoAdapter.deps.json
+C:\Users\aifre\Documents\Code\ArkanoAdapter\bin\Debug\net8.0\ArkanoAdapter.dll
+C:\Users\aifre\Documents\Code\ArkanoAdapter\bin\Debug\net8.0\ArkanoAdapter.pdb
+C:\Users\aifre\Documents\Code\ArkanoAdapter\obj\Debug\net8.0\ArkanoAdapter.csproj.AssemblyReference.cache
+C:\Users\aifre\Documents\Code\ArkanoAdapter\obj\Debug\net8.0\ArkanoAdapter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aifre\Documents\Code\ArkanoAdapter\obj\Debug\net8.0\ArkanoAdapter.AssemblyInfoInputs.cache
+C:\Users\aifre\Documents\Code\ArkanoAdapter\obj\Debug\net8.0\ArkanoAdapter.AssemblyInfo.cs
+C:\Users\aifre\Documents\Code\ArkanoAdapter\obj\Debug\net8.0\ArkanoAdapter.csproj.CoreCompileInputs.cache
+C:\Users\aifre\Documents\Code\ArkanoAdapter\obj\Debug\net8.0\ArkanoAdapter.dll
+C:\Users\aifre\Documents\Code\ArkanoAdapter\obj\Debug\net8.0\refint\ArkanoAdapter.dll
+C:\Users\aifre\Documents\Code\ArkanoAdapter\obj\Debug\net8.0\ArkanoAdapter.pdb
+C:\Users\aifre\Documents\Code\ArkanoAdapter\obj\Debug\net8.0\ref\ArkanoAdapter.dll
