@@ -1,0 +1,15 @@
+C:\Users\aifre\Documents\Code\ArkanoApi\ArkanoBussiness\bin\Debug\net8.0\ArkanoBussiness.deps.json
+C:\Users\aifre\Documents\Code\ArkanoApi\ArkanoBussiness\bin\Debug\net8.0\ArkanoBussiness.dll
+C:\Users\aifre\Documents\Code\ArkanoApi\ArkanoBussiness\bin\Debug\net8.0\ArkanoBussiness.pdb
+C:\Users\aifre\Documents\Code\ArkanoApi\ArkanoBussiness\bin\Debug\net8.0\ArkanoData.dll
+C:\Users\aifre\Documents\Code\ArkanoApi\ArkanoBussiness\bin\Debug\net8.0\ArkanoData.pdb
+C:\Users\aifre\Documents\Code\ArkanoApi\ArkanoBussiness\obj\Debug\net8.0\ArkanoBussiness.csproj.AssemblyReference.cache
+C:\Users\aifre\Documents\Code\ArkanoApi\ArkanoBussiness\obj\Debug\net8.0\ArkanoBussiness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aifre\Documents\Code\ArkanoApi\ArkanoBussiness\obj\Debug\net8.0\ArkanoBussiness.AssemblyInfoInputs.cache
+C:\Users\aifre\Documents\Code\ArkanoApi\ArkanoBussiness\obj\Debug\net8.0\ArkanoBussiness.AssemblyInfo.cs
+C:\Users\aifre\Documents\Code\ArkanoApi\ArkanoBussiness\obj\Debug\net8.0\ArkanoBussiness.csproj.CoreCompileInputs.cache
+C:\Users\aifre\Documents\Code\ArkanoApi\ArkanoBussiness\obj\Debug\net8.0\ArkanoBu.69B1B11A.Up2Date
+C:\Users\aifre\Documents\Code\ArkanoApi\ArkanoBussiness\obj\Debug\net8.0\ArkanoBussiness.dll
+C:\Users\aifre\Documents\Code\ArkanoApi\ArkanoBussiness\obj\Debug\net8.0\refint\ArkanoBussiness.dll
+C:\Users\aifre\Documents\Code\ArkanoApi\ArkanoBussiness\obj\Debug\net8.0\ArkanoBussiness.pdb
+C:\Users\aifre\Documents\Code\ArkanoApi\ArkanoBussiness\obj\Debug\net8.0\ref\ArkanoBussiness.dll

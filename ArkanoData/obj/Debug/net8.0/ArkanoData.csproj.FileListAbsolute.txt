@@ -1,0 +1,14 @@
+C:\Users\aifre\Documents\Code\ArkanoApi\ArkanoData\bin\Debug\net8.0\ArkanoData.deps.json
+C:\Users\aifre\Documents\Code\ArkanoApi\ArkanoData\bin\Debug\net8.0\ArkanoData.runtimeconfig.json
+C:\Users\aifre\Documents\Code\ArkanoApi\ArkanoData\bin\Debug\net8.0\ArkanoData.dll
+C:\Users\aifre\Documents\Code\ArkanoApi\ArkanoData\bin\Debug\net8.0\ArkanoData.pdb
+C:\Users\aifre\Documents\Code\ArkanoApi\ArkanoData\obj\Debug\net8.0\ArkanoData.csproj.AssemblyReference.cache
+C:\Users\aifre\Documents\Code\ArkanoApi\ArkanoData\obj\Debug\net8.0\ArkanoData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aifre\Documents\Code\ArkanoApi\ArkanoData\obj\Debug\net8.0\ArkanoData.AssemblyInfoInputs.cache
+C:\Users\aifre\Documents\Code\ArkanoApi\ArkanoData\obj\Debug\net8.0\ArkanoData.AssemblyInfo.cs
+C:\Users\aifre\Documents\Code\ArkanoApi\ArkanoData\obj\Debug\net8.0\ArkanoData.csproj.CoreCompileInputs.cache
+C:\Users\aifre\Documents\Code\ArkanoApi\ArkanoData\obj\Debug\net8.0\ArkanoData.dll
+C:\Users\aifre\Documents\Code\ArkanoApi\ArkanoData\obj\Debug\net8.0\refint\ArkanoData.dll
+C:\Users\aifre\Documents\Code\ArkanoApi\ArkanoData\obj\Debug\net8.0\ArkanoData.pdb
+C:\Users\aifre\Documents\Code\ArkanoApi\ArkanoData\obj\Debug\net8.0\ArkanoData.genruntimeconfig.cache
+C:\Users\aifre\Documents\Code\ArkanoApi\ArkanoData\obj\Debug\net8.0\ref\ArkanoData.dll

@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArkanoApi", "ArkanoApi\ArkanoApi.csproj", "{CE068814-FDEF-44A9-8B99-BA6A7AA5CC9A}"
+EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{867FC77E-23BA-4F90-B5EF-06CE376A89B7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArkanoData", "ArkanoData\ArkanoData.csproj", "{F0AFD78E-85E5-4236-B766-723082790439}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArkanoBussiness", "ArkanoBussiness\ArkanoBussiness.csproj", "{549BA7F9-964A-4FC0-98BF-24CC520BBD4B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArkanoAdapter", "..\ArkanoAdapter\ArkanoAdapter.csproj", "{CE55963A-4CD1-46C9-A5DB-AFA1B7A4C3F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE068814-FDEF-44A9-8B99-BA6A7AA5CC9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE068814-FDEF-44A9-8B99-BA6A7AA5CC9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE068814-FDEF-44A9-8B99-BA6A7AA5CC9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE068814-FDEF-44A9-8B99-BA6A7AA5CC9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{867FC77E-23BA-4F90-B5EF-06CE376A89B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{867FC77E-23BA-4F90-B5EF-06CE376A89B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{867FC77E-23BA-4F90-B5EF-06CE376A89B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{867FC77E-23BA-4F90-B5EF-06CE376A89B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0AFD78E-85E5-4236-B766-723082790439}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0AFD78E-85E5-4236-B766-723082790439}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0AFD78E-85E5-4236-B766-723082790439}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0AFD78E-85E5-4236-B766-723082790439}.Release|Any CPU.Build.0 = Release|Any CPU
+		{549BA7F9-964A-4FC0-98BF-24CC520BBD4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{549BA7F9-964A-4FC0-98BF-24CC520BBD4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{549BA7F9-964A-4FC0-98BF-24CC520BBD4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{549BA7F9-964A-4FC0-98BF-24CC520BBD4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE55963A-4CD1-46C9-A5DB-AFA1B7A4C3F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE55963A-4CD1-46C9-A5DB-AFA1B7A4C3F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE55963A-4CD1-46C9-A5DB-AFA1B7A4C3F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE55963A-4CD1-46C9-A5DB-AFA1B7A4C3F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C60CC63-39A1-4E5D-A8C8-CB29FFC1C43A}
+	EndGlobalSection
+EndGlobal

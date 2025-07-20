@@ -1,0 +1,6 @@
+@ArkanoApi_HostAddress = http://localhost:5251
+
+GET {{ArkanoApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
