@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ArkanoData")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cdf23b4a9fa329733447d8e8629efee3f472c5b7")]
 [assembly: System.Reflection.AssemblyProductAttribute("ArkanoData")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ArkanoData")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
