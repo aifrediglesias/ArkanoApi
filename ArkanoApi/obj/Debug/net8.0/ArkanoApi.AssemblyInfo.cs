@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ArkanoApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cdf23b4a9fa329733447d8e8629efee3f472c5b7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a261465e6bb3b4ad4216bc99ba961be15f3c4add")]
 [assembly: System.Reflection.AssemblyProductAttribute("ArkanoApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ArkanoApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,65 @@
+﻿version: '3.4'
+
+services:
+  arkanoapi:
+    image: ${DOCKER_REGISTRY-}arkanoapi
+    container_name: arkano-api
+    build:
+      context: .
+      dockerfile: ArkanoApi/Dockerfile
+    depends_on:
+      - postgres
+      - kafka
+    environment:
+      - BootstrapServers=kafka:9092
+    networks:
+      - kafka-net
+  zookeeper:
+    container_name: zookeeper
+    image: confluentinc/cp-zookeeper:5.5.3
+    ports:
+      - "2181:2181"
+    environment:
+      ZOOKEEPER_CLIENT_PORT: 2181
+      ALLOW_ANONYMOUS_LOGIN: yes
+    networks:
+      - kafka-net
+  kafka:
+    container_name: kafka
+    image: confluentinc/cp-enterprise-kafka:5.5.3
+    depends_on: 
+      - zookeeper
+    environment:
+      KAFKA_BROKER_ID: 1
+      KAFKA_ZOOKEEPER_CONNECT: zookeeper:2181
+      KAFKA_LISTENERS: PLAINTEXT://0.0.0.0:9092
+      KAFKA_ADVERTISED_LISTENERS: PLAINTEXT://kafka:9092
+      KAFKA_LISTENER_SECURITY_PROTOCOL_MAP: PLAINTEXT:PLAINTEXT
+      KAFKA_OFFSETS_TOPIC_REPLICATION_FACTOR: 1
+      KAFKA_AUTO_CREATE_TOPICS_ENABLE: "true"
+      ALLOW_PLAINTEXT_LISTENER: yes
+    ports:
+      - 9092:9092
+    networks:
+      - kafka-net
+  postgres:
+    image: postgres:16
+    container_name: postgres-db
+    depends_on:
+      - kafka
+    ports:
+      - "5432:5432"
+    environment:
+      - POSTGRES_DB=ArkanoDB
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=postgres
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+    networks:
+      - kafka-net
+
+volumes:
+  pgdata:
+
+networks:
+  kafka-net:
